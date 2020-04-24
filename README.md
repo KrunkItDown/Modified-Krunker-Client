@@ -16,3 +16,5 @@ A few changes have been made to the original client and a list of the changes ma
 
 # How To Setup / Download
 To setup this client read the following post below this comment. It will go to detail on how to install the client.
+
+⚠️ This client will change the original Krunker.io client so make sure to backup your original client files! ⚠️

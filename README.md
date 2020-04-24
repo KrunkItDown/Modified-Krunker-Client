@@ -13,3 +13,6 @@ A few changes have been made to the original client and a list of the changes ma
 - Way To Check Matchmaker Server Status
 - Changed Font When Starting Client
 - Changed Splash To Something Simple
+
+# How To Setup / Download
+To setup this client read the following post below this comment. It will go to detail on how to install the client.

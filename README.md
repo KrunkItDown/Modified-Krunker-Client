@@ -38,4 +38,4 @@ Remember that the client isn't a very good one and other clients are way better 
 - KPal Client
 - CClient
 
-And more clients. Now I'm not saying these are official as they aren't except the original Krunker client so make sure to beware when downloading them. They might not be viruses but you need to stay safe either way.
+And more clients. Now I'm not saying these are official as they aren't except the original Krunker client so make sure to beware when downloading them. They might not be viruses but you need to stay safe either way. Anything you do is your fault and not mine.

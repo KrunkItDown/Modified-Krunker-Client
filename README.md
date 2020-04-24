@@ -3,3 +3,13 @@ A modified Krunker.io client that features some basic things. This client should
 
 # Client Features
 A few changes have been made to the original client and a list of the changes made can be found below this comment.
+
+- Better Alerts
+- Changed Some Settings Labels
+- Removed Having To Instantly Restart After Changing An Option
+- Watermark Removed But Can Be Enabled
+- Way To Quit The Client
+- Way To Restart The Client
+- Way To Check Matchmaker Server Status
+- Changed Font When Starting Client
+- Changed Splash To Something Simple

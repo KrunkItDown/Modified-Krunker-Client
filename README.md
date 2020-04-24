@@ -30,7 +30,7 @@ You should notice the splash changed to a solid color and the font size and font
 # Update Information
 *This client most likely will not recieve any updates but you can still use it as it will auto-update to the game version that is needed which means the client will auto-update if the game for example is version 3 or something like that*
 
-Remember that the client isn't a very good one and other clients are way better then this one. A list of clients that you can use can be found below this comment.
+Remember that the client isn't a very good one and other clients are way better then this one. A list of clients that you can use can be found below this comment. The reason this client isn't getting updates is because I don't normally code in Javascript or ever used the Electron API so making this client with good features is a pain in the ass for someone who doesn't understand JS. This client was made using Notepad++ so give the client a break as it was literally made in a notepad program.
 
 - Original Krunker Client
 - MTZ Client

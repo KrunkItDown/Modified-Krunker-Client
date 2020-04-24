@@ -19,8 +19,10 @@
 
 This client replaces the resources folder of the original Krunker.io client so make sure you have it installed and backup the original files in-case you want to revert back to the original!
 
-~ Download The Modified Krunker Client Zip
-~ Unzip The File And Copy Paste Resource Folder Somewhere
-~ Navigate To Your Original Krunker.io Directory (Example: C:\Program Files\Yendis Entertainment Pty Ltd\Official Krunker Client\)
-~ Replace The Resources Folder With The Downloaded One
-~ Open Krunker.io Client
+- Download The Modified Krunker Client Zip
+- Unzip The File And Copy Paste Resource Folder Somewhere
+- Navigate To Your Original Krunker.io Directory (Example: C:\Program Files\Yendis Entertainment Pty Ltd\Official Krunker Client\)
+- Replace The Resources Folder With The Downloaded One
+- Open Krunker.io Client
+
+You should notice the splash changed to a solid color and the font size and font changed. This will indicate that the setup has been completed and the Modified Krunker Client has been "installed" correctly.

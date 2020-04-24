@@ -1,8 +1,8 @@
 # Modified-Krunker-Client
-A modified Krunker.io client that features some basic things. This client should be used as an alternative or another client instead of a main client but feel free to use it as your main client.
+*A modified Krunker.io client that features some basic things. This client should be used as an alternative or another client instead of a main client but feel free to use it as your main client.*
 
 # Client Features
-A few changes have been made to the original client and a list of the changes made can be found below this comment.
+*A few changes have been made to the original client and a list of the changes made can be found below this comment.*
 
 - Better Alerts
 - Changed Some Settings Labels
@@ -17,4 +17,4 @@ A few changes have been made to the original client and a list of the changes ma
 # How To Setup / Download
 To setup this client read the following post below this comment. It will go to detail on how to install the client.
 
-⚠️ *This client will change the original Krunker.io client so make sure to backup your original client files!* ⚠️
+⚠️ This client will change the original Krunker.io client so make sure to backup your original client files!

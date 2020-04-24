@@ -26,3 +26,6 @@ This client replaces the resources folder of the original Krunker.io client so m
 - Open Krunker.io Client
 
 You should notice the splash changed to a solid color and the font size and font changed. This will indicate that the setup has been completed and the Modified Krunker Client has been "installed" correctly.
+
+# Updates Information
+*This client most likely will not recieve any updates but you can still use it as it will auto-update to the game version that is needed which means the client will auto-update if the game for example is version 3 or something like that*

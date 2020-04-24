@@ -1,7 +1,7 @@
 # Modified-Krunker-Client
 *A modified Krunker.io client that features some basic things. This client should be used as an alternative or another client instead of a main client but feel free to use it as your main client.*
 
-Did not add anything to display the language the repository but if you need to know it's Javascript / Electron API / HTML or something along the lines of them three I don't really know or care.
+Did not add anything to display the language that the repository is but if you need to know it's Javascript / Electron API / HTML or something along the lines of them three I don't really know or care.
 
 # Client Features
 *A few changes have been made to the original client and a list of the changes made can be found below this comment.*
